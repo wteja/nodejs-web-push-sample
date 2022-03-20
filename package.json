@@ -1,0 +1,14 @@
+{
+  "name": "web-push-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "web-push": "^3.4.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
